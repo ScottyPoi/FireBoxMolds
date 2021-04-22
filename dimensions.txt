@@ -1,0 +1,37 @@
+outer box - 50 mm (height)
+inner dimensions
+and
+inner box - 75 mm (height)
+outer dimensions
+
+box_1_lengh = 11.3125 inches
+                287.3375 mm
+                285
+box_1_width = 6.0625 inches
+                153.9875 mm
+                155
+
+box_2_length = 11 9/16 inches
+                293.688 mm
+                295 
+box_2_width = 6 5/16 inches
+                160.337 mm
+                160
+
+box_3_length = 11 3/16 inches
+                284.162 mm
+                285
+box_3_width = 6 9/16 inches
+                166.687 mm
+                165
+
+box_4_length = 12 1/16 inches
+                306.387 mm
+                305 
+box_4_width = 6 13/16 inches
+                173.037 mm
+                175 mm
+
+
+
+
